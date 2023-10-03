@@ -3,7 +3,6 @@
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6496d803d99c9d67319236da?variant=dark" alt="roadmap.sh"/></a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6496d803d99c9d67319236da?variant=dark)](https://roadmap.sh)
 <!--
 **Wowwhat1/Wowwhat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
